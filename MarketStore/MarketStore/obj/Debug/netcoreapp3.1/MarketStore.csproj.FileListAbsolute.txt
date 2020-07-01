@@ -1,0 +1,11 @@
+C:\Users\PC\MarketStore\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csprojAssemblyReference.cache
+C:\Users\PC\MarketStore\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfoInputs.cache
+C:\Users\PC\MarketStore\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfo.cs
+C:\Users\PC\MarketStore\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.exe
+C:\Users\PC\MarketStore\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.deps.json
+C:\Users\PC\MarketStore\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.json
+C:\Users\PC\MarketStore\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.dev.json
+C:\Users\PC\MarketStore\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\PC\MarketStore\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.pdb
+C:\Users\PC\MarketStore\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\PC\MarketStore\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.pdb
